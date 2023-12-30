@@ -5,7 +5,7 @@
 spring-boot 3.2.0
 Java @17
 JPA
-
+postgresql
 
 Todo...
 
